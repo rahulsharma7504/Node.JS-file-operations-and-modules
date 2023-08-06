@@ -1,0 +1,16 @@
+{
+  "name": "my-module",
+  "version": "1.0.0",
+  "description": "I create this new module",
+  "main": "index.js",
+  "scripts": {
+    "test": "my module"
+  },
+  "author": "Rahul Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "validator": "^13.9.0"
+  },
+  "type": "module"
+}
